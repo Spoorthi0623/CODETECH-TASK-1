@@ -1,0 +1,38 @@
+#Create a Python program that acts as a basic calculator. It should prompt the user to enter two numbers and choose an operation (addition, subtraction, multiplication,division). 
+Then, it should perform the selected operation and display the result to the user.
+
+import pandas as pd
+class math:
+    def Simple_math(self):
+        self.Simple_math1= int(input("Enter first number: "))
+        self.Simple_math2= int(input("Enter second number: "))
+    def Addition(self):
+        print("Addition: ",self.Simple_math1+self.Simple_math2)
+    def Subtraction(self):
+        print("Subtraction: ",self.Simple_math1-self.Simple_math2)
+    def Multiplication(self):
+        print("Multiplication: ",self.Simple_math1*self.Simple_math2)
+    def Division(self):
+        print("Division: ",self.Simple_math1/self.Simple_math2)
+
+while(True):
+    M= math()
+    print("\n1. Addition\n2. Subtraction\n3. Multiplication\n4. Division\n5. Exit")
+    choice= int(input("Choose from the given option: "))
+    
+    if choice in [1,2,3,4]:
+        M.Simple_math()
+        
+    if choice==1:
+        M.Addition()
+    elif choice==2:
+        M.Subtraction()
+    elif choice==3:
+        M.Multiplication()
+    elif choice==4:
+        M.Division()
+    elif choice==5:
+        print("Thank you")
+        break
+    else:
+        print("invalid choice!!")
