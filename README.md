@@ -2,8 +2,11 @@
 **Name:** Spoorthi K M
 
 **Company:** CODETECH IT SOLUTIONS
+
 **ID:** CT08DGX
+
 **Domain:** Python Programming
+
 **Duration:** December 2024 to January 2025
 
 
@@ -34,6 +37,8 @@ Error Handling: Anticipating common issues like division by zero or invalid inpu
 Scalability: The program can be extended to include additional mathematical operations or features (e.g., power, square root).
 Educational Value: This task serves as a practical introduction to input validation, conditional logic
 ### Output
-![image](https://github.com/user-attachments/assets/4163b825-e768-410d-8935-99339e30fec1)
-![image](https://github.com/user-attachments/assets/2101b441-9bea-4d8e-9c5f-0a0df8f91530)
+![image](https://github.com/user-attachments/assets/e62db729-7000-424f-928d-540ee092b1ad)
+![image](https://github.com/user-attachments/assets/89c311f7-830e-42f5-91bb-980ffc24aee3)
+
+
 
