@@ -35,4 +35,5 @@ Scalability: The program can be extended to include additional mathematical oper
 Educational Value: This task serves as a practical introduction to input validation, conditional logic
 ### Output
 ![image](https://github.com/user-attachments/assets/4163b825-e768-410d-8935-99339e30fec1)
+![image](https://github.com/user-attachments/assets/2101b441-9bea-4d8e-9c5f-0a0df8f91530)
 
